@@ -226,7 +226,7 @@ var rules = {
     "You do not seem quite certain",
   ],
   "~*x Eva ~*y: [
-  	"Eva is the most beautiful",
+    "Eva is the most beautiful",
   ],
 };
 
